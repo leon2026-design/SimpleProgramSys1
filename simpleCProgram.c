@@ -9,7 +9,7 @@ int main() {
         sum += numbers[i];
     }
 
-    printf("The sum of the array is: %d\n", sum);
+    printf("Array sum : %d\n", sum);
 
     return 0;
 }
